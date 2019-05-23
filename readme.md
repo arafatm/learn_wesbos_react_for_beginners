@@ -24,7 +24,7 @@ Look at `package.json`
 `scripts` section for commands that can be run
 - `start` to run babel and webpack
 
-[48195c5](`$ npm install`) 
+[https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/48195c5](`$ npm install`) 
 
 xxx
 
