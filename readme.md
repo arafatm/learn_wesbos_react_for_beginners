@@ -26,6 +26,17 @@ Look at `package.json`
 
 [`$ npm install`](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/48195c5) 
 
+In case of any install errors
+
+```bash
+rm -rf node_modules 
+rm -rf package-lock.json
+
+npm i
+```
+
+`npm start` to start up the application
+
 xxx
 
 
