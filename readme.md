@@ -41,8 +41,6 @@ npm i
 [:ship: 5b1b631](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/5b1b631)
 test hot reload with an `alert`
 
-test
-
 xxx
 
 
