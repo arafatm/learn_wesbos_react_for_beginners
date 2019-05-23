@@ -8,7 +8,21 @@ Install node.js to run required tooling
 
 Using VStudio for editor
 
-Copied https://github.com/wesbos/React-For-Beginners-Starter-Files
+Copied https://github.com/wesbos/React-For-Beginners-Starter-Files into `/React-For-Beginners
+- `/stepped-solutions` follow the videos by chapter
+
+Look at `package.json`
+- `react-scripts` builds the project; Avoid to set up your own webpack
+- `autoprefixer-stylus` and `stylus` for styling
+- `firebase` to connect to DB
+- `prop-types` to define what data to expect
+- `re-base` to connect to firebase and sync changes
+- `react` and `react-dom` are core react pacakges
+- `react-router-dom` to watch for changes
+- `react-transition-group` for animations
+
+`scripts` section for commands that can be run
+- `start` to run babel and webpack
 
 ## Thinking and Understanding React Components
 ## Creating our First Components
