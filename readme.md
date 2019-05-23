@@ -24,6 +24,11 @@ Look at `package.json`
 `scripts` section for commands that can be run
 - `start` to run babel and webpack
 
+[48195c5](`$ npm install`) 
+
+xxx
+
+
 ## Thinking and Understanding React Components
 ## Creating our First Components
 ## Writing HTML with JSX
