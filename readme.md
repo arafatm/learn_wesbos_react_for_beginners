@@ -64,6 +64,9 @@ Looking at `public/index.html` note the `<div id="main">`
 To mount our react app we `import { render } from 'react-dom'`
 - then we `render( <somecode>, <mountpoint>)`
 
+[:ship: 29240dd](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/29240dd)
+Our first React Component
+
 xxx
 
 ## Writing HTML with JSX
