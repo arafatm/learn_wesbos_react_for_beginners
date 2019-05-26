@@ -67,6 +67,9 @@ To mount our react app we `import { render } from 'react-dom'`
 [:ship: 29240dd](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/29240dd)
 Our first React Component
 
+[:ship: 5e47786](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/5e47786)
+render the StorePicker
+
 xxx
 
 ## Writing HTML with JSX
