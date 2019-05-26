@@ -43,11 +43,23 @@ test hot reload with an `alert`
 
 ## Thinking and Understanding React Components
 
-A **component** is a reusable piece of code
+Everything in React is a **component**
+- a reusable of your website
+
+Use **React Dev Tools** to see the components defined
+
+## Creating our First Components
+
+If you View Source you can find the `alert(hey)` code if you in `bundle.js`
+
+Add our new component to `src/index.js`
+- `import React from 'react'` note the capitalization rules
+- classes should start with Capital
+- class should `extend React.Component`
+- method `render` is main
 
 xxx
 
-## Creating our First Components
 ## Writing HTML with JSX
 ## Loading CSS into our React Application
 ## Creating our application layout with components
