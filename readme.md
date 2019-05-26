@@ -58,6 +58,12 @@ Add our new component to `src/index.js`
 - class should `extend React.Component`
 - method `render` is main
 
+Looking at `public/index.html` note the `<div id="main">`
+- this is where the app is mounted
+
+To mount our react app we `import { render } from 'react-dom'`
+- then we `render( <somecode>, <mountpoint>)`
+
 xxx
 
 ## Writing HTML with JSX
