@@ -41,10 +41,12 @@ npm i
 [:ship: 5b1b631](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/5b1b631)
 test hot reload with an `alert`
 
+## Thinking and Understanding React Components
+
+A **component** is a reusable piece of code
+
 xxx
 
-
-## Thinking and Understanding React Components
 ## Creating our First Components
 ## Writing HTML with JSX
 ## Loading CSS into our React Application
