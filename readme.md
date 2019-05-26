@@ -70,6 +70,9 @@ Our first React Component
 [:ship: 5e47786](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/5e47786)
 render the StorePicker
 
+[:ship: a2d3b8b](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/a2d3b8b)
+move StorePicker into its own components file. **Note** the import and export statements
+
 xxx
 
 ## Writing HTML with JSX
