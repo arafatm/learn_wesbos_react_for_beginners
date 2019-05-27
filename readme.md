@@ -101,6 +101,9 @@ A working StorePicker component
 
 :caution: In your editor, install **prettier** code formatter
 
+[:ship: c79bf73](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/c79bf73)
+New App component - :caution: dont forget to `export default App` - :caution: dont forget to `import App`
+
 xxx
 ## Passing Dynamic data with props
 ## Stateless Functional Components
