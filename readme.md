@@ -74,9 +74,12 @@ render the StorePicker
 move StorePicker into its own components file. 
 - **Note** the import and export statements
 
+## Writing HTML with JSX
+
+JSX allows mixing JS with HTML
+
 xxx
 
-## Writing HTML with JSX
 ## Loading CSS into our React Application
 ## Creating our application layout with components
 ## Passing Dynamic data with props
