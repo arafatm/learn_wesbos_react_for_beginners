@@ -104,6 +104,9 @@ A working StorePicker component
 [:ship: c79bf73](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/c79bf73)
 New App component - :caution: dont forget to `export default App` - :caution: dont forget to `import App`
 
+[:ship: b68cac9](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/b68cac9)
+Initial Header component
+
 xxx
 ## Passing Dynamic data with props
 ## Stateless Functional Components
