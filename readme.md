@@ -107,6 +107,9 @@ New App component - :caution: dont forget to `export default App` - :caution: do
 [:ship: b68cac9](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/b68cac9)
 Initial Header component
 
+[:ship: 5d0b542](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/5d0b542)
+Style it some eg with Anchor image in the header
+
 xxx
 ## Passing Dynamic data with props
 ## Stateless Functional Components
