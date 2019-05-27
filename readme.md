@@ -89,6 +89,9 @@ JSX Gotchas:
 - [:ship: cbba2e5](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/cbba2e5) However you can use `<React.Fragment>` to return sibling elements
 - [:ship: 1b2667e](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/1b2667e) comments in JSX are weird. Have to put them in `{ ... }`
 
+[:ship: 2b7c441](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/2b7c441)
+A working StorePicker component
+
 xxx
 
 
