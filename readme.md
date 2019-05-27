@@ -78,6 +78,9 @@ move StorePicker into its own components file.
 
 JSX allows mixing JS with HTML
 
+[:ship: c98f432](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/c98f432)
+readme
+
 xxx
 
 ## Loading CSS into our React Application
