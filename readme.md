@@ -87,6 +87,9 @@ JSX Gotchas:
 - [:ship: 3175851](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/3175851) Use `return ( ../.. )` to return multiple lines
 - [:ship: 26ddb98](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/26ddb98) Can only return a single element in JSX
 
+[:ship: cbba2e5](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/cbba2e5)
+However you can use `<React.Fragment>` to return sibling elements
+
 xxx
 
 
