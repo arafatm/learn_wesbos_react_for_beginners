@@ -83,6 +83,9 @@ Example of using `React.CreateElement` (without JSX)
 
 JSX Gotchas:
 - Can't use `class`. Must use `className`
+[:ship: d88d0ba](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/d88d0ba)
+Example of incorrectly returning multiple lines in JSX
+
 xxx
 
 
