@@ -94,6 +94,9 @@ A working StorePicker component
 
 ## Loading CSS into our React Application
 
+[:ship: 0c6a63e](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/0c6a63e)
+import "path/styles.css"
+
 xxx
 
 ## Creating our application layout with components
