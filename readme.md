@@ -81,10 +81,10 @@ JSX allows mixing JS with HTML
 [:ship: c98f432](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/c98f432)
 Example of using `React.CreateElement` (without JSX)
 
-[:ship: 207f12f](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/207f12f)
-- can't use  on a Form. Must use
-
+JSX Gotchas:
+- Can't use `class`. Must use `className`
 xxx
+
 
 ## Loading CSS into our React Application
 ## Creating our application layout with components
