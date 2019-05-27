@@ -92,10 +92,10 @@ JSX Gotchas:
 [:ship: 2b7c441](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/2b7c441)
 A working StorePicker component
 
+## Loading CSS into our React Application
+
 xxx
 
-
-## Loading CSS into our React Application
 ## Creating our application layout with components
 ## Passing Dynamic data with props
 ## Stateless Functional Components
