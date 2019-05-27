@@ -85,6 +85,9 @@ JSX Gotchas:
 - Can't use `class`. Must use `className`
 - [:ship: d88d0ba](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/d88d0ba) Example of incorrectly returning multiple lines in JSX
 
+[:ship: 3175851](https://github.com/arafatm/learn_wesbos_react_for_beginners/commit/3175851)
+Use `return ( ../.. )` to return multiple lines
+
 xxx
 
 
