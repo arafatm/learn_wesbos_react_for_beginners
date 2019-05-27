@@ -4,7 +4,11 @@ class App extends React.Component {
   render() {
     return (
       <div className="catch-of-the-day">
-        <p>App component</p>
+        <div className="menu">
+          <Header />
+          <Inventory />
+          <Order />
+        </div>
       </div>
     )
   }
